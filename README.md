@@ -1,4 +1,4 @@
-# Biomechanics
+# Biomechanics - VR Effects on Balance
 MATLAB code used to analyze dependent variables for a balance study
 
 Brozek KB, Mukherjee M. Quantifying the effect of visual and support surface oscillations on the orthogonality of balance control during gait. IN PRESS
